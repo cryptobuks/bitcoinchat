@@ -1,0 +1,4 @@
+bitcoinchat
+===========
+
+Bitcoin Chat
